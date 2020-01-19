@@ -1,0 +1,16 @@
+.card-white-no-border {
+	background: #589167;
+	padding: 8px;
+	margin-bottom: 10px;
+	box-shadow: 0px 10px 30px rgba(0,0,0.1);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.card-white-no-border img {
+	margin: auto;
+}
+
+#smaller-margin {
+	margin-top:  5px;
+}

@@ -1,0 +1,7 @@
+.colonne-droite{
+	float: right;
+	}
+	
+.colonne-droite img {
+	max-width: 190px;
+}

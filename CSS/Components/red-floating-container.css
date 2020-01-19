@@ -1,0 +1,31 @@
+@media (max-width: 960px) {
+  .red-floating-container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+   .red-floating-container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .red-floating-container {
+    width: 300px;
+  }
+}
+
+.red-floating-container {
+	float: right;
+	width: 17%;
+	background-color: red;
+	height: auto;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	float: left;
+	text-align: center;
+}
+
+.red-floating-container p {
+	margin-bottom: 0px;
+}

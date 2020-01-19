@@ -1,0 +1,12 @@
+.mini-cadre {
+	background-color: #A0CC78;
+	border-radius: 10px;
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
+}
+
+.mini-cadre img {
+	width: 165px;
+	border-radius: 15px;
+}

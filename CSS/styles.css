@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu&display=swap");
+
+@import url("Components/avatar.css");
+@import url("Components/btn-blue.css");
+@import url("Components/card.css");
+@import url("Components/container.css");
+@import url("Components/card-white.css");
+@import url("Components/card-red.css");
+@import url("Components/banner.css");
+@import url("Components/flexcards.css");
+@import url("Components/img-center.css");
+@import url("Components/menu.css");
+@import url("Components/colonne-center.css");
+@import url("Components/colonne-droite.css");
+@import url("Components/card-white-no-border.css");
+@import url("Components/small-bouton.css");
+@import url("Components/red-floating-container.css");
+@import url("Components/img-link.css");
+@import url("Components/colonne-gauche.css");
+@import url("Components/banière-haut.css");
+@import url("Components/header.css");
+@import url("Components/card-white-flex.css");
+@import url("Components/mini-cadre.css");
+@import url("Components/affichage-icone.css");
+
+
+body {
+	background-color: white;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-image: url(../images/foret.jpg);
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 40px;
+	margin: 0px;
+}
+
+p {
+	font-famizly: 'Ubuntu', cursive;
+}
+
+a {
+	text-decoration: none;
+}
+
+#Suiveznous {
+	margin-top: 245px;
+}
+
+#logo {
+	display: block;
+	width: 165px;
+	border-radius: 15px;
+	margin: 0px 0px 10px 20px;
+}

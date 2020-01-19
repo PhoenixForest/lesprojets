@@ -1,0 +1,25 @@
+.card {
+	padding: 5px 30px;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,1);
+	border-radius: 10px;
+	margin: 10px 10px 10px 40px;
+	background-color: rgb(240,230,140);
+	float: rights;
+}
+
+.card img {
+	width: 150px;
+	border-radius: 15px;
+}
+
+.card h3 {
+	margin: 5px;
+	margin-left: 0px;
+	font-size: 24px;
+}
+
+.card p {
+	margin: 0px;
+}
